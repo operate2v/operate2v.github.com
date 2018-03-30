@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>savo_app.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>7465546152A8AAE780AD17B3C24F508F616CF033</string>
+				<key>dateExpires</key>
+				<string>2019. 3. 30.</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>FGU5BKYBN5.org.reactjs.native.example.savo</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>FGU5BKYBN5</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>FGU5BKYBN5.org.reactjs.native.example.savo</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>savo_app.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e6c1154d-87e1-4e47-ae03-0c96ace1c517</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: org.reactjs.native.example.savo</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>FGU5BKYBN5</string>
+				<key>name</key>
+				<string>Sang Young Cho</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
