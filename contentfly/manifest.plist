@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://operate2v.github.io/contentfly/contentsfly.ipa</string>
+                    <string>https://operate2v.github.io/contentfly/contentsfly_adhoc.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
